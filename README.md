@@ -8,12 +8,6 @@ Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻 Screenshots
 
-<div align="left">
-  <img src="https://github.com/palomavila/dev-finance/blob/main/prints/home.png" alt"Banner" title="Home" />
-
-<div align="left">
-  <img src="https://github.com/palomavila/dev-finance/blob/main/prints/form.png" alt"Banner" title="Form" />
-
 ## 👩🏽‍💻Tecnologias
 
 O projeto foi desenvolvido utilizando:
