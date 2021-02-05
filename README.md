@@ -8,6 +8,13 @@ Thanks @RocketSeat 🚀
 
 ## 👩🏽‍💻 Screenshots
 
+
+<div align="left">
+  <img src="https://github.com/palomavila/dev-finance/blob/main/prints/home.jpg" alt"Home" title="Home" />
+
+<div align="left">
+  <img src="https://github.com/palomavila/dev-finance/blob/main/prints/form.jpg" alt"Form" title="Form" />
+
 ## 👩🏽‍💻Tecnologias
 
 O projeto foi desenvolvido utilizando:
@@ -15,6 +22,7 @@ O projeto foi desenvolvido utilizando:
 <ul>
   <li> HTML</li>
   <li> CSS </li>
+  <li> Javascript </li>
 </ul>
 
 ## 👩🏽‍💻Licença
